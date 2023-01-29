@@ -36,7 +36,7 @@ answers = ['りんご','ごりら','ばなな']
 defaultAnswerset = 'default'
 
 # 自分のBotのアクセストークンに置き換えてください
-TOKEN = ''
+TOKEN = 'MTA2OTEyNjIzNDc5MDk1NzA3OA.GPgvFJ.wcxug4NHyHxQaf-tPrFAPuaXjoOKC6qW8TUWfE'
 
 # 接続に必要なオブジェクトを生成
 client = commands.Bot(command_prefix='/')
